@@ -1,0 +1,7 @@
+.personal-info--item{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+}
